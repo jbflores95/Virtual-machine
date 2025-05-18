@@ -34,7 +34,7 @@ I created this project to learn how virtualization works across different operat
 <p>
 1.Before we  create this VM, make a free Microsoft Azure account, and you get 200 credits for 30 days. Trust me it'll last you long as long as you dont forget to stop your Virtual Machine.
 </p>
--Ok now that you have your account, we need to make a resource group. A resource in a virtual machine refers to the allocated hardware components such as CPU, RAM, disk space, and network connectivity.
+-Ok now that you have your account, we need to make a resource group.Resource groups provide organization, security, cost management, and simplified operations for Azure VMs and other resources.
 </p>
 2.You can click the resource group from the home screen, or you can type resource group in the search bar at the top.
 </p>
